@@ -1,0 +1,1 @@
+# hibernate_spring_example_mysql
